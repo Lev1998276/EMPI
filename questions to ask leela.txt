@@ -1,0 +1,3 @@
+#Path where Madhu will place the csv files from process to consume
+s3_csv_bucket_name = vnsny-das-staging-test
+s3_csv_folder_name = PERSON/CSV/
